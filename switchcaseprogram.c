@@ -20,7 +20,7 @@ int main()
       printf( Case4 ");
       break;
    default: 
-      printf("Default ");
+      printf("Use the default case ");
       }
       
       return 0;
